@@ -15,12 +15,12 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: Download and Process List
+      - name: download and Process List
         run: |
           # 1. 下载原始列表 (替换为实际的 Raw 链接)
-          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202512252214/direct-list.txt -o direct-list.txt
-          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202512252214/proxy-list.txt -o proxy-list.txt
-          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/download/202512252214/apple-cn.txt -o apple-cn.txt
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/direct-list.txt -o direct-list.txt
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/proxy-list.txt -o proxy-list.txt
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/apple-cn.txt -o apple-cn.txt
 
           
           # 2. 处理文件：每行开头加前缀，并保存为 final_list.txt
