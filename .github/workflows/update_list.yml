@@ -1,0 +1,40 @@
+name: Auto Update Domain List
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 每天凌晨 12:00 自动运行
+  workflow_dispatch:      # 允许你在 Actions 页面手动点击运行
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write    # 赋予脚本写入仓库的权限
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: download and Process List
+        run: |
+          # 1. 下载原始列表 (替换为实际的 Raw 链接)
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/direct-list.txt -o direct-list.txt
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/proxy-list.txt -o proxy-list.txt
+          curl -sSL https://github.com/Loyalsoldier/v2ray-rules-dat/releases/latest/download/202512252214/apple-cn.txt -o apple-cn.txt
+
+          
+          # 2. 处理文件：每行开头加前缀，并保存为 final_list.txt
+          # 这里使用 sed 命令给每行开头 (^) 加上前缀
+          sed 's/^/DOMAIN-SUFFIX,/' direct-list.txt > direct_list.txt
+          sed 's/^/DOMAIN-SUFFIX,/' proxy-list.txt > proxy_list.txt
+          sed 's/full:/DOMAIN,/' apple-cn.txt > apple_cn.txt
+          
+          echo "处理完成"
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add direct_list.txt proxy_list
+          # 只有当文件有变化时才提交，防止报错
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update domain list: $(date)" && git push)
