@@ -1,0 +1,4 @@
+DOMAIN-SUFFIX,cmct.cn
+DOMAIN-SUFFIX,cmhk.com
+DOMAIN-SUFFIX,cmft.com
+DOMAIN-SUFFIX,cm-worklink.com
