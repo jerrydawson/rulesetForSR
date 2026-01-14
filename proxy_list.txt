@@ -6683,6 +6683,7 @@ DOMAIN-SUFFIX,digitalprototyping.com
 DOMAIN-SUFFIX,digitaltrends.com
 DOMAIN-SUFFIX,diigo.com
 DOMAIN-SUFFIX,dilcdn.com
+DOMAIN-SUFFIX,dinopoloclub.com
 DOMAIN-SUFFIX,dinotube.com
 DOMAIN-SUFFIX,dipity.com
 DOMAIN-SUFFIX,dirctv.com
@@ -15530,6 +15531,7 @@ DOMAIN-SUFFIX,mobilepornmovies.com
 DOMAIN-SUFFIX,mobileview.page
 DOMAIN-SUFFIX,mobilevrxxx.com
 DOMAIN-SUFFIX,mobileways.de
+DOMAIN-SUFFIX,mobimon.com.tw
 DOMAIN-SUFFIX,mobmyanmar.com
 DOMAIN-SUFFIX,moby.to
 DOMAIN-SUFFIX,mobypicture.com
@@ -16865,6 +16867,7 @@ DOMAIN-SUFFIX,nowjav.com
 DOMAIN-SUFFIX,nownews.com
 DOMAIN-SUFFIX,nowtorrents.com
 DOMAIN-SUFFIX,noxinfluencer.com
+DOMAIN-SUFFIX,noxygames.com
 DOMAIN-SUFFIX,nozomi.la
 DOMAIN-SUFFIX,npa.go.jp
 DOMAIN-SUFFIX,npm.community
@@ -19202,6 +19205,8 @@ DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,raw.githack.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,rayark.download
+DOMAIN-SUFFIX,rayark.net
 DOMAIN-SUFFIX,razer.com
 DOMAIN-SUFFIX,razerofficial.com
 DOMAIN-SUFFIX,razersupport.com
@@ -26055,6 +26060,8 @@ DOMAIN-SUFFIX,full:amp.akamaized.net
 DOMAIN-SUFFIX,full:android.googlesource.com
 DOMAIN-SUFFIX,full:angle.com.tw
 DOMAIN-SUFFIX,full:anime-rule34-world.b-cdn.net
+DOMAIN-SUFFIX,full:antigravity-pa.googleapis.com
+DOMAIN-SUFFIX,full:antigravity.googleapis.com
 DOMAIN-SUFFIX,full:aod-pod-uk-live.akamaized.net
 DOMAIN-SUFFIX,full:api-p.videomarket.jp
 DOMAIN-SUFFIX,full:api.viu.now.com
@@ -26105,6 +26112,8 @@ DOMAIN-SUFFIX,full:cisco.evergage.com
 DOMAIN-SUFFIX,full:ciscolivehls-i.akamaihd.net
 DOMAIN-SUFFIX,full:client-teamviewer-com.trafficmanager.net
 DOMAIN-SUFFIX,full:clients1.google.com
+DOMAIN-SUFFIX,full:cloudaicompanion.googleapis.com
+DOMAIN-SUFFIX,full:cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,full:cloudsync-prod.s3.amazonaws.com
 DOMAIN-SUFFIX,full:community.oneplus.com
 DOMAIN-SUFFIX,full:configuration-lb.ls-apple.com.akadns.net
@@ -26141,6 +26150,7 @@ DOMAIN-SUFFIX,full:d3r7nsslvs6aaf.cloudfront.net
 DOMAIN-SUFFIX,full:d3vd9lfkzbru3h.cloudfront.net
 DOMAIN-SUFFIX,full:d6d4ismr40iw.cloudfront.net
 DOMAIN-SUFFIX,full:d6tizftlrpuof.cloudfront.net
+DOMAIN-SUFFIX,full:daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,full:databank.worldbank.org
 DOMAIN-SUFFIX,full:database.asahi.com
 DOMAIN-SUFFIX,full:datarouter.apps.netherrealm.com
@@ -26268,6 +26278,8 @@ DOMAIN-SUFFIX,full:nationalaustraliaban.tt.omtrdc.net
 DOMAIN-SUFFIX,full:netflix.com.edgesuite.net
 DOMAIN-SUFFIX,full:notary-submissions-prod.s3-accelerate.amazonaws.com
 DOMAIN-SUFFIX,full:notary-submissions-prod.s3.us-west-2.amazonaws.com
+DOMAIN-SUFFIX,full:notebooklm-pa.googleapis.com
+DOMAIN-SUFFIX,full:notebooklm.googleapis.com
 DOMAIN-SUFFIX,full:notify.ppy.sh
 DOMAIN-SUFFIX,full:np-edge.itunes.apple.com
 DOMAIN-SUFFIX,full:ntdfreemobile-tgc.cdn.hinet.net
