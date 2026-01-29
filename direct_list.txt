@@ -114535,6 +114535,7 @@ DOMAIN-SUFFIX,full:amp-api-updates.apps.apple.com
 DOMAIN-SUFFIX,full:amp-api.apps.apple.com
 DOMAIN-SUFFIX,full:amp-api.media.apple.com
 DOMAIN-SUFFIX,full:amp-api.music.apple.com
+DOMAIN-SUFFIX,full:aod-ssl.itunes.apple.com
 DOMAIN-SUFFIX,full:aod.itunes.apple.com
 DOMAIN-SUFFIX,full:api-edge.apps.apple.com
 DOMAIN-SUFFIX,full:app-analytics-services.com

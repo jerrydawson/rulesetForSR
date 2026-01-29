@@ -2179,6 +2179,8 @@ DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,aria.ms
 DOMAIN-SUFFIX,ark.to
 DOMAIN-SUFFIX,arlingtoncemetery.mil
+DOMAIN-SUFFIX,arma3.com
+DOMAIN-SUFFIX,armaplatform.com
 DOMAIN-SUFFIX,armovs.com
 DOMAIN-SUFFIX,arnoldrenderer.com
 DOMAIN-SUFFIX,arphic.com
@@ -2854,6 +2856,7 @@ DOMAIN-SUFFIX,battleforcecomix.com
 DOMAIN-SUFFIX,battlefront2.com
 DOMAIN-SUFFIX,battlefrontii.com
 DOMAIN-SUFFIX,battlelog.com
+DOMAIN-SUFFIX,battleye.com
 DOMAIN-SUFFIX,baxsound.com
 DOMAIN-SUFFIX,bayareabmw.com
 DOMAIN-SUFFIX,bayvoice.net
@@ -3532,6 +3535,7 @@ DOMAIN-SUFFIX,biqle.ru
 DOMAIN-SUFFIX,bird.so
 DOMAIN-SUFFIX,bisq.io
 DOMAIN-SUFFIX,bisq.network
+DOMAIN-SUFFIX,bistudio.com
 DOMAIN-SUFFIX,bisyoujyogyaruge.topaz.ne.jp
 DOMAIN-SUFFIX,bit-z.com
 DOMAIN-SUFFIX,bit.do
@@ -4214,6 +4218,7 @@ DOMAIN-SUFFIX,bodgirls.com
 DOMAIN-SUFFIX,bodog88.com
 DOMAIN-SUFFIX,bodyandsoul.com.au
 DOMAIN-SUFFIX,bodyfluids-jav.com
+DOMAIN-SUFFIX,bohemia.net
 DOMAIN-SUFFIX,boj.or.jp
 DOMAIN-SUFFIX,bokep.net
 DOMAIN-SUFFIX,bokepseks.org
@@ -5891,6 +5896,7 @@ DOMAIN-SUFFIX,cricketcountry.com
 DOMAIN-SUFFIX,cristyli.com
 DOMAIN-SUFFIX,crit-staging.com
 DOMAIN-SUFFIX,critiquebrainz.org
+DOMAIN-SUFFIX,crixet.com
 DOMAIN-SUFFIX,crmdynint-gcc.com
 DOMAIN-SUFFIX,crmdynint.com
 DOMAIN-SUFFIX,crocotube.com
@@ -6174,6 +6180,7 @@ DOMAIN-SUFFIX,daylenerio.com
 DOMAIN-SUFFIX,daylife.com
 DOMAIN-SUFFIX,daytonbmw.com
 DOMAIN-SUFFIX,daytontrucktires.com
+DOMAIN-SUFFIX,dayz.com
 DOMAIN-SUFFIX,dazn-api.com
 DOMAIN-SUFFIX,dazn.com
 DOMAIN-SUFFIX,dazndn.com
@@ -14292,6 +14299,7 @@ DOMAIN-SUFFIX,mairbeats.com
 DOMAIN-SUFFIX,maizhong.org
 DOMAIN-SUFFIX,makaan.com
 DOMAIN-SUFFIX,makeanything.com
+DOMAIN-SUFFIX,makearmanotwar.com
 DOMAIN-SUFFIX,makebettercode.com
 DOMAIN-SUFFIX,makecode.org
 DOMAIN-SUFFIX,makeeu.com
@@ -20252,6 +20260,7 @@ DOMAIN-SUFFIX,sih.app
 DOMAIN-SUFFIX,sijihuisuo.club
 DOMAIN-SUFFIX,sijihuisuo.com
 DOMAIN-SUFFIX,sikiswap.com
+DOMAIN-SUFFIX,silicagame.com
 DOMAIN-SUFFIX,silicon-mobility.com
 DOMAIN-SUFFIX,siliconmobility.com
 DOMAIN-SUFFIX,silkbook.com
@@ -23191,6 +23200,7 @@ DOMAIN-SUFFIX,vietdaikynguyen.com
 DOMAIN-SUFFIX,viewerswives.net
 DOMAIN-SUFFIX,viewgals.com
 DOMAIN-SUFFIX,viewpointsfromfacebook.com
+DOMAIN-SUFFIX,vigorgame.com
 DOMAIN-SUFFIX,vijayatemple.org
 DOMAIN-SUFFIX,vikiporn.com
 DOMAIN-SUFFIX,vilanet.me
@@ -25280,6 +25290,7 @@ DOMAIN-SUFFIX,yipub.com
 DOMAIN-SUFFIX,yiqiedoushiganggangkaishi.org
 DOMAIN-SUFFIX,yizhihongxing.com
 DOMAIN-SUFFIX,yjcontentdelivery.com
+DOMAIN-SUFFIX,ylands.com
 DOMAIN-SUFFIX,ymail.com
 DOMAIN-SUFFIX,ymhsf.top
 DOMAIN-SUFFIX,ymhsf1.top
@@ -26102,6 +26113,7 @@ DOMAIN-SUFFIX,full:oneocsp.microsoft.com
 DOMAIN-SUFFIX,full:ood.opsource.net
 DOMAIN-SUFFIX,full:openaiapi-site.azureedge.net
 DOMAIN-SUFFIX,full:openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
+DOMAIN-SUFFIX,full:openaicom.imgix.net
 DOMAIN-SUFFIX,full:openaicomproductionae4b.blob.core.windows.net
 DOMAIN-SUFFIX,full:opgg-static.akamaized.net
 DOMAIN-SUFFIX,full:origin-a.akamaihd.net
