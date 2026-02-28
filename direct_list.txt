@@ -116933,6 +116933,7 @@ DOMAIN-SUFFIX,full:alibaba.cdn.steampipe.steamcontent.com
 DOMAIN-SUFFIX,full:amp-api-edge-lb-cn.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,full:amp-api-edge-lb.itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,full:amp-api-edge.apps.apple.com
+DOMAIN-SUFFIX,full:amp-api-edge.music.apple.com
 DOMAIN-SUFFIX,full:amp-api-search-edge.apps.apple.com
 DOMAIN-SUFFIX,full:amp-api-updates.apps.apple.com
 DOMAIN-SUFFIX,full:amp-api.apps.apple.com
@@ -117247,6 +117248,8 @@ DOMAIN-SUFFIX,full:ml.cdn-apple.com
 DOMAIN-SUFFIX,full:monitoring.qpdp1.net
 DOMAIN-SUFFIX,full:moocs.unipus.cn
 DOMAIN-SUFFIX,full:music.apple.com
+DOMAIN-SUFFIX,full:musicstatus.music.apple.com
+DOMAIN-SUFFIX,full:mvod.itunes.apple.com
 DOMAIN-SUFFIX,full:myapp.itunes.apple.com
 DOMAIN-SUFFIX,full:myvs.download.prss.microsoft.com
 DOMAIN-SUFFIX,full:nexus.dell.com
@@ -117403,6 +117406,7 @@ DOMAIN-SUFFIX,full:snp.cdn.dell.com
 DOMAIN-SUFFIX,full:snpi.dell.com
 DOMAIN-SUFFIX,full:software.download.prss.microsoft.com
 DOMAIN-SUFFIX,full:sp.itunes.apple.com
+DOMAIN-SUFFIX,full:speedysub.music.apple.com
 DOMAIN-SUFFIX,full:ss.bjmu.edu.cn
 DOMAIN-SUFFIX,full:ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,full:ssl.gstatic.com

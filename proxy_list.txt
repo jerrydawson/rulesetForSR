@@ -23888,6 +23888,7 @@ DOMAIN-SUFFIX,yandexadexchange.net
 DOMAIN-SUFFIX,yandexcloud.net
 DOMAIN-SUFFIX,yandexcom.net
 DOMAIN-SUFFIX,yandexmetrica.com
+DOMAIN-SUFFIX,yandexwebcache.net
 DOMAIN-SUFFIX,yandexwebcache.org
 DOMAIN-SUFFIX,yangzhi.org
 DOMAIN-SUFFIX,yantaqu.com
@@ -24781,6 +24782,7 @@ DOMAIN-SUFFIX,full:pchomeonline.com.tw
 DOMAIN-SUFFIX,full:pki.google.com
 DOMAIN-SUFFIX,full:play-edge.itunes.apple.com
 DOMAIN-SUFFIX,full:poshtestgallery.cloudapp.net
+DOMAIN-SUFFIX,full:ppl-ai-file-upload.s3.amazonaws.com
 DOMAIN-SUFFIX,full:pplx-res.cloudinary.com
 DOMAIN-SUFFIX,full:practivate.adobe
 DOMAIN-SUFFIX,full:practivate.adobe.com
