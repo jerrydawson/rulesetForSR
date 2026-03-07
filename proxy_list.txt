@@ -11955,6 +11955,7 @@ DOMAIN-SUFFIX,inventor-certified.com
 DOMAIN-SUFFIX,inventorfusion.com
 DOMAIN-SUFFIX,inventorseries.com
 DOMAIN-SUFFIX,inventorship.com.au
+DOMAIN-SUFFIX,investing.com
 DOMAIN-SUFFIX,investorschronicle.co.uk
 DOMAIN-SUFFIX,invidio.us
 DOMAIN-SUFFIX,invity.io
@@ -15030,6 +15031,7 @@ DOMAIN-SUFFIX,musickit.net
 DOMAIN-SUFFIX,musixmatch.com
 DOMAIN-SUFFIX,mut.ch
 DOMAIN-SUFFIX,muthead.com
+DOMAIN-SUFFIX,muvluv-girls-garden.com
 DOMAIN-SUFFIX,muycerdas.xxx
 DOMAIN-SUFFIX,muyzorras.com
 DOMAIN-SUFFIX,muzi.com
@@ -16340,6 +16342,7 @@ DOMAIN-SUFFIX,only3x.com
 DOMAIN-SUFFIX,onlyams.com
 DOMAIN-SUFFIX,onlycartoonsex.com
 DOMAIN-SUFFIX,onlydudes.com
+DOMAIN-SUFFIX,onlyfans.com
 DOMAIN-SUFFIX,onlyfanspw.com
 DOMAIN-SUFFIX,onlyfreelatinaporn.com
 DOMAIN-SUFFIX,onlygayvideo.com
@@ -18860,6 +18863,7 @@ DOMAIN-SUFFIX,selfloversworld.com
 DOMAIN-SUFFIX,sellercommunity.com
 DOMAIN-SUFFIX,semanticscholar.org
 DOMAIN-SUFFIX,sena.co.kr
+DOMAIN-SUFFIX,sendvid.com
 DOMAIN-SUFFIX,seneporno.com
 DOMAIN-SUFFIX,seniortgp.com
 DOMAIN-SUFFIX,senpaiheat.com
@@ -21605,6 +21609,7 @@ DOMAIN-SUFFIX,ustibetcommittee.org
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,usvimosquito.com
 DOMAIN-SUFFIX,usvimosquitoproject.com
+DOMAIN-SUFFIX,utdstc.com
 DOMAIN-SUFFIX,utopianpal.com
 DOMAIN-SUFFIX,uug22.com
 DOMAIN-SUFFIX,uug23.com
@@ -24007,6 +24012,8 @@ DOMAIN-SUFFIX,youflix.is
 DOMAIN-SUFFIX,youjism.com
 DOMAIN-SUFFIX,youjizz.com
 DOMAIN-SUFFIX,youjizz.sex
+DOMAIN-SUFFIX,youla.io
+DOMAIN-SUFFIX,youla.ru
 DOMAIN-SUFFIX,youlucky.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,youmind.ai
@@ -24539,6 +24546,7 @@ DOMAIN-SUFFIX,full:antigravity.googleapis.com
 DOMAIN-SUFFIX,full:aod-pod-uk-live.akamaized.net
 DOMAIN-SUFFIX,full:api-p.videomarket.jp
 DOMAIN-SUFFIX,full:api.viu.now.com
+DOMAIN-SUFFIX,full:apkmirror.disqus.com
 DOMAIN-SUFFIX,full:apl-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,full:apple-tv-plus-press.apple.com
 DOMAIN-SUFFIX,full:apple.com.akadns.net
@@ -24927,6 +24935,8 @@ DOMAIN-SUFFIX,full:spotify.com.edgesuite.net
 DOMAIN-SUFFIX,full:spotify.map.fastly.net
 DOMAIN-SUFFIX,full:spotify.map.fastlylb.net
 DOMAIN-SUFFIX,full:ssl-lvlt.cdn.ea.com
+DOMAIN-SUFFIX,full:st-ok-pts.cdn-vk.ru
+DOMAIN-SUFFIX,full:st-ok.cdn-vk.ru
 DOMAIN-SUFFIX,full:standchartbank.sc.omtrdc.net
 DOMAIN-SUFFIX,full:standchartbank.tt.omtrdc.net
 DOMAIN-SUFFIX,full:static-hamivideo.cdn.hinet.net
@@ -25152,6 +25162,7 @@ DOMAIN-SUFFIX,full:wwis-dubc1-vip99.adobe.com
 DOMAIN-SUFFIX,full:www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,full:yandex-pogoda.static-storage.net
 DOMAIN-SUFFIX,full:yangzhi.app
+DOMAIN-SUFFIX,full:youla-web-static.mrgcdn.ru
 DOMAIN-SUFFIX,full:yt3.googleusercontent.com
 DOMAIN-SUFFIX,full:zeenews-fonts.s3.amazonaws.com
 DOMAIN-SUFFIX,regexp:(^|\.)13mei[5-7]\.buzz$
