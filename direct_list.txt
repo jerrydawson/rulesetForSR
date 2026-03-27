@@ -65816,7 +65816,6 @@ DOMAIN-SUFFIX,loushi.com
 DOMAIN-SUFFIX,lousj.com
 DOMAIN-SUFFIX,lousw.com
 DOMAIN-SUFFIX,louyue.com
-DOMAIN-SUFFIX,lovart.ai
 DOMAIN-SUFFIX,lovcuty.com
 DOMAIN-SUFFIX,love-freedom.com
 DOMAIN-SUFFIX,love-math-edu.com
@@ -118205,6 +118204,7 @@ DOMAIN-SUFFIX,full:is5.mzstatic.com
 DOMAIN-SUFFIX,full:itunes-apple.com.akadns.net
 DOMAIN-SUFFIX,full:itunes.apple.com
 DOMAIN-SUFFIX,full:itunesconnect.apple.com
+DOMAIN-SUFFIX,full:izattime.qcomgeo2.com
 DOMAIN-SUFFIX,full:js-cdn.music.apple.com
 DOMAIN-SUFFIX,full:km.support.apple.com
 DOMAIN-SUFFIX,full:ksn-cinfo-geo.kaspersky-labs.com
@@ -118500,6 +118500,7 @@ DOMAIN-SUFFIX,full:www.support.apple.com
 DOMAIN-SUFFIX,full:www4-static.gog-statics.com
 DOMAIN-SUFFIX,full:xn--flw351e.com
 DOMAIN-SUFFIX,full:xp.apple.com
+DOMAIN-SUFFIX,full:xtratime.qcomgeo2.com
 DOMAIN-SUFFIX,full:xz.pphimalayanrt.com
 DOMAIN-SUFFIX,regexp:.+\.awsdns-cn-[0-9][0-9]\.(biz|com|net|top)$
 DOMAIN-SUFFIX,regexp:.+\.awsdns-cn-[0-9][a-e0-9]\.cn$
