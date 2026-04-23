@@ -2290,6 +2290,7 @@ DOMAIN-SUFFIX,asianthumbs.org
 DOMAIN-SUFFIX,asianwifeporn.com
 DOMAIN-SUFFIX,asianxxxvideos.cc
 DOMAIN-SUFFIX,asiaone.com
+DOMAIN-SUFFIX,asiasociety.org
 DOMAIN-SUFFIX,asjmapihost.cc
 DOMAIN-SUFFIX,ask.com
 DOMAIN-SUFFIX,askfacebook.net
@@ -3272,6 +3273,7 @@ DOMAIN-SUFFIX,belamionline.com
 DOMAIN-SUFFIX,bell.wiki
 DOMAIN-SUFFIX,bellebound.com
 DOMAIN-SUFFIX,bellesa.co
+DOMAIN-SUFFIX,bellingcat.com
 DOMAIN-SUFFIX,bellotube.com
 DOMAIN-SUFFIX,bellsouth.net
 DOMAIN-SUFFIX,benaughty.fun
@@ -5821,6 +5823,7 @@ DOMAIN-SUFFIX,creatwhatsnext.com
 DOMAIN-SUFFIX,crececonebay.com
 DOMAIN-SUFFIX,creditcardsbay.com
 DOMAIN-SUFFIX,creditkarma.com
+DOMAIN-SUFFIX,crewai.com
 DOMAIN-SUFFIX,cricketcountry.com
 DOMAIN-SUFFIX,cristyli.com
 DOMAIN-SUFFIX,crit-staging.com
@@ -13351,6 +13354,7 @@ DOMAIN-SUFFIX,lamayeshe.com
 DOMAIN-SUFFIX,lamnia.co.uk
 DOMAIN-SUFFIX,lanasbigboobs.com
 DOMAIN-SUFFIX,landofhope.tv
+DOMAIN-SUFFIX,langchain.com
 DOMAIN-SUFFIX,langsuirs.com
 DOMAIN-SUFFIX,lanik.us
 DOMAIN-SUFFIX,lanmdh.net
@@ -13658,6 +13662,7 @@ DOMAIN-SUFFIX,lmebooks.com
 DOMAIN-SUFFIX,lmm167.shop
 DOMAIN-SUFFIX,lmmbtc.com
 DOMAIN-SUFFIX,lms01.com
+DOMAIN-SUFFIX,lmstudio.ai
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,lnstagram-help.com
 DOMAIN-SUFFIX,loanbuilder.com
@@ -16633,6 +16638,7 @@ DOMAIN-SUFFIX,olevod.io
 DOMAIN-SUFFIX,olevod.tv
 DOMAIN-SUFFIX,olevodtv.com
 DOMAIN-SUFFIX,oli-school.com
+DOMAIN-SUFFIX,ollama.com
 DOMAIN-SUFFIX,olumpo.com
 DOMAIN-SUFFIX,omafotze.com
 DOMAIN-SUFFIX,omakase.in
@@ -18566,6 +18572,7 @@ DOMAIN-SUFFIX,ravm.tv
 DOMAIN-SUFFIX,raw.githack.com
 DOMAIN-SUFFIX,rawgit.com
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,rawstory.com
 DOMAIN-SUFFIX,rayark.download
 DOMAIN-SUFFIX,rayark.net
 DOMAIN-SUFFIX,razer.com
@@ -18699,6 +18706,7 @@ DOMAIN-SUFFIX,recode.net
 DOMAIN-SUFFIX,recoiljs.org
 DOMAIN-SUFFIX,reconinstruments.com
 DOMAIN-SUFFIX,reconjet.com
+DOMAIN-SUFFIX,recordedfuture.com
 DOMAIN-SUFFIX,recoveryversion.com.tw
 DOMAIN-SUFFIX,red-lang.org
 DOMAIN-SUFFIX,redamateurtube.com
@@ -20257,7 +20265,6 @@ DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soyinyj.top
 DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
-DOMAIN-SUFFIX,soylentnews.org
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spacely.com.au
@@ -21341,6 +21348,7 @@ DOMAIN-SUFFIX,thieme-connect.com
 DOMAIN-SUFFIX,thieme-connect.de
 DOMAIN-SUFFIX,thieme.de
 DOMAIN-SUFFIX,thinkboxsoftware.com
+DOMAIN-SUFFIX,thinkchina.sg
 DOMAIN-SUFFIX,thinkdifferent.us
 DOMAIN-SUFFIX,thinkgeek.com
 DOMAIN-SUFFIX,thinkingtaiwan.com
