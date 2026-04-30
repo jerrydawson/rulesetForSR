@@ -25844,6 +25844,7 @@ DOMAIN-SUFFIX,full:time4.facebook.com
 DOMAIN-SUFFIX,full:time4.google.com
 DOMAIN-SUFFIX,full:time5.facebook.com
 DOMAIN-SUFFIX,full:tmdb-image-prod.b-cdn.net
+DOMAIN-SUFFIX,full:tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,full:tv.applemusic.com
 DOMAIN-SUFFIX,full:tvcastlive-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,full:ubisoft-orbit-savegames.s3.amazonaws.com
