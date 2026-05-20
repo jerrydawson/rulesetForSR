@@ -1286,6 +1286,7 @@ DOMAIN-SUFFIX,alchemysynth.com
 DOMAIN-SUFFIX,alefbank.com
 DOMAIN-SUFFIX,alexa.com
 DOMAIN-SUFFIX,alexanderstreet.com
+DOMAIN-SUFFIX,alfa.me
 DOMAIN-SUFFIX,alfabank.oavdo.amc
 DOMAIN-SUFFIX,alfabank.ru
 DOMAIN-SUFFIX,alfabank.st
@@ -15722,6 +15723,7 @@ DOMAIN-SUFFIX,mysocialworklab.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,mysql.com
 DOMAIN-SUFFIX,mystrikingly.com
+DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,myteenwebcam.com
 DOMAIN-SUFFIX,mythicentertainment.com
 DOMAIN-SUFFIX,mythicentertainment.net
@@ -21219,6 +21221,8 @@ DOMAIN-SUFFIX,teachmyass.com
 DOMAIN-SUFFIX,teachparentstech.org
 DOMAIN-SUFFIX,teamneedforspeed.com
 DOMAIN-SUFFIX,teamskeet.com
+DOMAIN-SUFFIX,teamspeak-services.com
+DOMAIN-SUFFIX,teamspeak.com
 DOMAIN-SUFFIX,teamviewer.com
 DOMAIN-SUFFIX,teamviewer.us
 DOMAIN-SUFFIX,tearapeak.com
@@ -25771,6 +25775,7 @@ DOMAIN-SUFFIX,full:espndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,full:f3b7q2p3.ssl.hwcdn.net
 DOMAIN-SUFFIX,full:fandom.zendesk.com
 DOMAIN-SUFFIX,full:faronics.kayako.com
+DOMAIN-SUFFIX,full:favoritescc-hamivideo2.cdn.hinet.net
 DOMAIN-SUFFIX,full:fbcdn-a.akamaihd.net
 DOMAIN-SUFFIX,full:firebase.google.com
 DOMAIN-SUFFIX,full:firebase.googleapis.com
@@ -25827,6 +25832,7 @@ DOMAIN-SUFFIX,full:imperial.insendi.com
 DOMAIN-SUFFIX,full:ingest.apple-studies.com
 DOMAIN-SUFFIX,full:lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,full:lazer.ppy.sh
+DOMAIN-SUFFIX,full:lgcscc-hamivideo2.cdn.hinet.net
 DOMAIN-SUFFIX,full:lgelectronics.122.2o7.net
 DOMAIN-SUFFIX,full:licdn.cn.cdn20.com
 DOMAIN-SUFFIX,full:linear-abematv.akamaized.net
@@ -26088,6 +26094,7 @@ DOMAIN-SUFFIX,full:t21.nikkei.co.jp
 DOMAIN-SUFFIX,full:t21ipau.nikkei.co.jp
 DOMAIN-SUFFIX,full:teamviewer.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,full:tesla-cdn.thron.com
+DOMAIN-SUFFIX,full:thumbnail-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,full:time-a-b.nist.gov
 DOMAIN-SUFFIX,full:time-a-g.nist.gov
 DOMAIN-SUFFIX,full:time-a-wwv.nist.gov
@@ -26121,6 +26128,7 @@ DOMAIN-SUFFIX,full:time3.google.com
 DOMAIN-SUFFIX,full:time4.facebook.com
 DOMAIN-SUFFIX,full:time4.google.com
 DOMAIN-SUFFIX,full:time5.facebook.com
+DOMAIN-SUFFIX,full:tlmr-hamivideo2.cdn.hinet.net
 DOMAIN-SUFFIX,full:tmdb-image-prod.b-cdn.net
 DOMAIN-SUFFIX,full:tmdb-web-image-prod.b-cdn.net
 DOMAIN-SUFFIX,full:tv.applemusic.com
@@ -26183,6 +26191,7 @@ DOMAIN-SUFFIX,full:vsmarketplacebadge.apphb.com
 DOMAIN-SUFFIX,full:wb-agora-hydra-file-storage-k1.s3.amazonaws.com
 DOMAIN-SUFFIX,full:webchannel-alkalimakersuite-pa.clients6.google.com
 DOMAIN-SUFFIX,full:weblive-hamivideo.cdn.hinet.net
+DOMAIN-SUFFIX,full:webvodad-hamivideo.cdn.hinet.net
 DOMAIN-SUFFIX,full:widgets.stripst.com
 DOMAIN-SUFFIX,full:wip.adobe.com
 DOMAIN-SUFFIX,full:wip1.adobe.com
