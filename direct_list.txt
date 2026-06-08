@@ -112543,6 +112543,7 @@ DOMAIN-SUFFIX,full:cl1.apple.com
 DOMAIN-SUFFIX,full:cl2-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,full:cl2-cn.apple.com
 DOMAIN-SUFFIX,full:cl2.apple.com
+DOMAIN-SUFFIX,full:cl2.apple.com.edgekey.net.globalredir.akadns.net
 DOMAIN-SUFFIX,full:cl3-cdn.origin-apple.com.akadns.net
 DOMAIN-SUFFIX,full:cl3.apple.com
 DOMAIN-SUFFIX,full:cl4-cdn.origin-apple.com.akadns.net
@@ -112683,6 +112684,7 @@ DOMAIN-SUFFIX,full:googlevads-cn.com
 DOMAIN-SUFFIX,full:gs-loc-cn.apple.com
 DOMAIN-SUFFIX,full:gs-loc.apple.com
 DOMAIN-SUFFIX,full:gsp10-ssl-cn.ls.apple.com
+DOMAIN-SUFFIX,full:gsp11-cn.ls.apple.com
 DOMAIN-SUFFIX,full:gsp12-cn.ls.apple.com
 DOMAIN-SUFFIX,full:gsp13-cn.ls.apple.com
 DOMAIN-SUFFIX,full:gsp4-cn.ls.apple.com
@@ -112711,8 +112713,6 @@ DOMAIN-SUFFIX,full:hellowebfonts.oss-cn-beijing.aliyuncs.com
 DOMAIN-SUFFIX,full:hospital.pku.edu.cn
 DOMAIN-SUFFIX,full:i.dell.com
 DOMAIN-SUFFIX,full:i.pki.goog
-DOMAIN-SUFFIX,full:icloud-cdn.icloud.com.akadns.net
-DOMAIN-SUFFIX,full:icloud.cdn-apple.com
 DOMAIN-SUFFIX,full:images-cn-8.ssl-images-amazon.com
 DOMAIN-SUFFIX,full:images-cn.ssl-images-amazon.com
 DOMAIN-SUFFIX,full:images.apple.com.edgekey.net.globalredir.akadns.net
@@ -112810,10 +112810,8 @@ DOMAIN-SUFFIX,full:ntp5.tencent.com
 DOMAIN-SUFFIX,full:ntp6.aliyun.com
 DOMAIN-SUFFIX,full:ntp7.aliyun.com
 DOMAIN-SUFFIX,full:o.pki.goog
-DOMAIN-SUFFIX,full:ocsp-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,full:ocsp.apple.com
 DOMAIN-SUFFIX,full:ocsp.pki.goog
-DOMAIN-SUFFIX,full:ocsp2-lb.apple.com.akadns.net
 DOMAIN-SUFFIX,full:ocsp2.apple.com
 DOMAIN-SUFFIX,full:oemsoc.download.prss.microsoft.com
 DOMAIN-SUFFIX,full:officecdn.microsoft.com
@@ -112856,7 +112854,6 @@ DOMAIN-SUFFIX,full:p8-juejin.byteimg.com
 DOMAIN-SUFFIX,full:p9-juejin.byteimg.com
 DOMAIN-SUFFIX,full:pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,full:pancake.apple.com
-DOMAIN-SUFFIX,full:pancake.cdn-apple.com.akadns.net
 DOMAIN-SUFFIX,full:pba0.apple.com
 DOMAIN-SUFFIX,full:pd-nk.itunes.apple.com
 DOMAIN-SUFFIX,full:pd.itunes.apple.com
@@ -112889,7 +112886,6 @@ DOMAIN-SUFFIX,full:redirector.xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,full:refresh-bkg.activation-v2.kaspersky.com
 DOMAIN-SUFFIX,full:res-1.cdn.office.net
 DOMAIN-SUFFIX,full:res.cdn.office.net
-DOMAIN-SUFFIX,full:reserve-prime.apple.com
 DOMAIN-SUFFIX,full:s.mzstatic.com
 DOMAIN-SUFFIX,full:s00.upd.kaspersky.com
 DOMAIN-SUFFIX,full:s01.upd.kaspersky.com
