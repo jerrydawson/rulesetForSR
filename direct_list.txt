@@ -112012,7 +112012,6 @@ DOMAIN-SUFFIX,full:swscan.apple.com
 DOMAIN-SUFFIX,full:sylvan.apple.com
 DOMAIN-SUFFIX,full:sync.itunes.apple.com
 DOMAIN-SUFFIX,full:tac.googleapis.com
-DOMAIN-SUFFIX,full:tesla-cdn.thron.cn
 DOMAIN-SUFFIX,full:tf-feedback.itunes.apple.com
 DOMAIN-SUFFIX,full:time.amazonaws.cn
 DOMAIN-SUFFIX,full:time.izatcloud.net
