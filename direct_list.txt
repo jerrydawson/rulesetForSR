@@ -111467,6 +111467,8 @@ DOMAIN-SUFFIX,full:time.amazonaws.cn
 DOMAIN-SUFFIX,full:time.izatcloud.net
 DOMAIN-SUFFIX,full:time.xtracloud.net
 DOMAIN-SUFFIX,full:tj-pod1-smp-device.apple.com
+DOMAIN-SUFFIX,full:tj-pod2-smp-device.apple.com
+DOMAIN-SUFFIX,full:tj-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,full:tools.google.com
 DOMAIN-SUFFIX,full:tp.louisvuitton.com
 DOMAIN-SUFFIX,full:universal-activity-service.itunes.apple.com
