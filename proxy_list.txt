@@ -26598,6 +26598,7 @@ DOMAIN-SUFFIX,full:img-prod-cms-rt-microsoft-com.akamaized.net
 DOMAIN-SUFFIX,full:img-s-msn-com.akamaized.net
 DOMAIN-SUFFIX,full:impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,full:imperial.insendi.com
+DOMAIN-SUFFIX,full:lastfm-img.freetls.fastly.net
 DOMAIN-SUFFIX,full:lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,full:lazer.ppy.sh
 DOMAIN-SUFFIX,full:lgcscc-hamivideo2.cdn.hinet.net
