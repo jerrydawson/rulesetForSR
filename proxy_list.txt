@@ -21477,6 +21477,9 @@ DOMAIN-SUFFIX,stripcamfun.com
 DOMAIN-SUFFIX,stripchat.com
 DOMAIN-SUFFIX,stripe-terminal-local-reader.net
 DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.dev
+DOMAIN-SUFFIX,stripe.events
+DOMAIN-SUFFIX,stripe.global
 DOMAIN-SUFFIX,stripe.network
 DOMAIN-SUFFIX,stripecdn.com
 DOMAIN-SUFFIX,stripparadise.com
@@ -26685,6 +26688,7 @@ DOMAIN-SUFFIX,full:opgg-static.akamaized.net
 DOMAIN-SUFFIX,full:origin-a.akamaihd.net
 DOMAIN-SUFFIX,full:osu.ppy.sh
 DOMAIN-SUFFIX,full:p-events-delivery.akamaized.net
+DOMAIN-SUFFIX,full:p16-tiktok-dm-sticker-sign-sg.ibyteimg.com
 DOMAIN-SUFFIX,full:p16-tiktokcdn-com.akamaized.net
 DOMAIN-SUFFIX,full:packages.microsoft.com
 DOMAIN-SUFFIX,full:paper-attachments.s3.amazonaws.com
