@@ -82099,6 +82099,7 @@ DOMAIN-SUFFIX,sjez.com
 DOMAIN-SUFFIX,sjf029.com
 DOMAIN-SUFFIX,sjfcdn.com
 DOMAIN-SUFFIX,sjfh168.com
+DOMAIN-SUFFIX,sjfls6.com
 DOMAIN-SUFFIX,sjfpro.com
 DOMAIN-SUFFIX,sjfzxm.com
 DOMAIN-SUFFIX,sjg8.com
@@ -110785,6 +110786,7 @@ DOMAIN-SUFFIX,full:download.visualstudio.microsoft.com
 DOMAIN-SUFFIX,full:downloaddispatch.itunes.apple.com
 DOMAIN-SUFFIX,full:dreamspark.download.prss.microsoft.com
 DOMAIN-SUFFIX,full:dreamsparkuat.download.prss.microsoft.com
+DOMAIN-SUFFIX,full:drivers.amd.com
 DOMAIN-SUFFIX,full:edge.geo.kaspersky.com
 DOMAIN-SUFFIX,full:end-api.shallow.ink
 DOMAIN-SUFFIX,full:end.shallow.ink
