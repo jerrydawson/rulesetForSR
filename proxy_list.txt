@@ -11635,6 +11635,7 @@ DOMAIN-SUFFIX,huanyuju.com
 DOMAIN-SUFFIX,huaren.us
 DOMAIN-SUFFIX,huarenav.com
 DOMAIN-SUFFIX,huarenporn.com
+DOMAIN-SUFFIX,huarun.win
 DOMAIN-SUFFIX,huashangnews.com
 DOMAIN-SUFFIX,huashundg.com
 DOMAIN-SUFFIX,huati.cc
@@ -14917,6 +14918,7 @@ DOMAIN-SUFFIX,messytube.com
 DOMAIN-SUFFIX,met-nude.com
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,metaaivm.com
 DOMAIN-SUFFIX,metabora.io
 DOMAIN-SUFFIX,metabrainz.org
 DOMAIN-SUFFIX,metacloud.com
@@ -15926,6 +15928,7 @@ DOMAIN-SUFFIX,musashinobank.co.jp
 DOMAIN-SUFFIX,muscache.com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musclegirlflix.com
+DOMAIN-SUFFIX,muse.ai
 DOMAIN-SUFFIX,mushroomtrack.com
 DOMAIN-SUFFIX,mushymush.tv
 DOMAIN-SUFFIX,musical.ly
@@ -17393,6 +17396,7 @@ DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,openbook.org.tw
 DOMAIN-SUFFIX,opencas.io
 DOMAIN-SUFFIX,openclaw.ai
+DOMAIN-SUFFIX,opencode.ai
 DOMAIN-SUFFIX,opencollective.com
 DOMAIN-SUFFIX,opencreate.org
 DOMAIN-SUFFIX,opencritic.com
@@ -26575,6 +26579,8 @@ DOMAIN-SUFFIX,full:foxnewsplayer-a.akamaihd.net
 DOMAIN-SUFFIX,full:gamedownloads-rockstargames-com.akamaized.net
 DOMAIN-SUFFIX,full:gamer-cds.cdn.hinet.net
 DOMAIN-SUFFIX,full:gamer2-cds.cdn.hinet.net
+DOMAIN-SUFFIX,full:geminiweb-pa.clients.google.com
+DOMAIN-SUFFIX,full:geminiweb-pa.clients6.google.com
 DOMAIN-SUFFIX,full:gigabyte2.azureedge.net
 DOMAIN-SUFFIX,full:github-api.arkoselabs.com
 DOMAIN-SUFFIX,full:github-cloud.s3.amazonaws.com
