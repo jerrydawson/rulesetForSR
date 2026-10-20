@@ -14488,6 +14488,7 @@ DOMAIN-SUFFIX,magentomobile.com
 DOMAIN-SUFFIX,magestic.com
 DOMAIN-SUFFIX,magicalmirai.com
 DOMAIN-SUFFIX,magicmovies.com
+DOMAIN-SUFFIX,magnific.com
 DOMAIN-SUFFIX,mahajantech.com
 DOMAIN-SUFFIX,mahjongsoul.com
 DOMAIN-SUFFIX,maidonanews.jp
@@ -15959,6 +15960,7 @@ DOMAIN-SUFFIX,mt.lv
 DOMAIN-SUFFIX,mt0011.site
 DOMAIN-SUFFIX,mtao.fun
 DOMAIN-SUFFIX,mthruf.com
+DOMAIN-SUFFIX,mts-link.ru
 DOMAIN-SUFFIX,mts-ws.net
 DOMAIN-SUFFIX,mts.ru
 DOMAIN-SUFFIX,mtsbank.ru
@@ -18807,6 +18809,7 @@ DOMAIN-SUFFIX,postgresql.org
 DOMAIN-SUFFIX,postimages.org
 DOMAIN-SUFFIX,postimg.cc
 DOMAIN-SUFFIX,postini.com
+DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,posts.careerengine.us
 DOMAIN-SUFFIX,posty.kr
 DOMAIN-SUFFIX,postyourgirls.ws
@@ -26769,6 +26772,8 @@ DOMAIN-SUFFIX,full:impala-media-production.s3.amazonaws.com
 DOMAIN-SUFFIX,full:imperial.insendi.com
 DOMAIN-SUFFIX,full:incoming-telemetry.thunderbird.net
 DOMAIN-SUFFIX,full:incoming.telemetry.mozilla.org
+DOMAIN-SUFFIX,full:kp-config-smart-tv.akamaized.net
+DOMAIN-SUFFIX,full:kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
 DOMAIN-SUFFIX,full:lastfm-img.freetls.fastly.net
 DOMAIN-SUFFIX,full:lastfm.freetls.fastly.net
 DOMAIN-SUFFIX,full:lazer.ppy.sh
