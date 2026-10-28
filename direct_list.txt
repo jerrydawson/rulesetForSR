@@ -60855,8 +60855,6 @@ DOMAIN-SUFFIX,long7.com
 DOMAIN-SUFFIX,longanlaw.com
 DOMAIN-SUFFIX,longau.com
 DOMAIN-SUFFIX,longbenren.com
-DOMAIN-SUFFIX,longbridgeapp.com
-DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longcai.com
 DOMAIN-SUFFIX,longcai027.com
 DOMAIN-SUFFIX,longcat.chat
@@ -110152,7 +110150,9 @@ DOMAIN-SUFFIX,full:seed.siri.apple.com
 DOMAIN-SUFFIX,full:sequoia.apple.com
 DOMAIN-SUFFIX,full:service.urchin.com
 DOMAIN-SUFFIX,full:sf-api-token-service.itunes.apple.com
+DOMAIN-SUFFIX,full:sh-pod1-smp-device.apple.com
 DOMAIN-SUFFIX,full:sh-pod2-smp-device.apple.com
+DOMAIN-SUFFIX,full:sh-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,full:shazam-insights.cdn-apple.com
 DOMAIN-SUFFIX,full:shell.cdn.office.net
 DOMAIN-SUFFIX,full:smp-device-content.apple.com
