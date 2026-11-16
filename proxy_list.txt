@@ -6399,6 +6399,7 @@ DOMAIN-SUFFIX,dealtree.org
 DOMAIN-SUFFIX,deasians.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,debot.ai
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,debugproject.com
 DOMAIN-SUFFIX,decentr.net
@@ -19639,6 +19640,7 @@ DOMAIN-SUFFIX,reiporno.com
 DOMAIN-SUFFIX,relateiq.com
 DOMAIN-SUFFIX,religionnews.com
 DOMAIN-SUFFIX,remirepo.net
+DOMAIN-SUFFIX,remna.dev
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,rencapbank.ru
 DOMAIN-SUFFIX,renchead.com
@@ -26660,6 +26662,7 @@ DOMAIN-SUFFIX,full:bnetcmsus-a.akamaihd.net
 DOMAIN-SUFFIX,full:bnetproduct-a.akamaihd.net
 DOMAIN-SUFFIX,full:bnetshopus.akamaized.net
 DOMAIN-SUFFIX,full:brightcove.imgix.net
+DOMAIN-SUFFIX,full:builds.dotnet.microsoft.com
 DOMAIN-SUFFIX,full:bybit-exchange.github.io
 DOMAIN-SUFFIX,full:bybit.ada.support
 DOMAIN-SUFFIX,full:c.ppy.sh
@@ -26762,6 +26765,7 @@ DOMAIN-SUFFIX,full:dlmobilegarena-a.akamaihd.net
 DOMAIN-SUFFIX,full:dmqdd6hw24ucf.cloudfront.net
 DOMAIN-SUFFIX,full:docker-images-prod.6aa30f8b08e16409b46e0173d6de2f56.r2.cloudflarestorage.com
 DOMAIN-SUFFIX,full:docker-pinata-support.s3.amazonaws.com
+DOMAIN-SUFFIX,full:dotnetcli.trafficmanager.net
 DOMAIN-SUFFIX,full:doy2mn9upadnk.cloudfront.net
 DOMAIN-SUFFIX,full:dqd0jw5gvbchn.cloudfront.net
 DOMAIN-SUFFIX,full:dqrpb9wgowsf5.cloudfront.net
@@ -27130,6 +27134,7 @@ DOMAIN-SUFFIX,full:steamusercontent-a.akamaihd.net
 DOMAIN-SUFFIX,full:steamuserimages-a.akamaihd.net
 DOMAIN-SUFFIX,full:steamvideo-a.akamaihd.net
 DOMAIN-SUFFIX,full:straitsx-826709081262441084-b790f87a2ae6fd417434295.freshchat.com
+DOMAIN-SUFFIX,full:sundry-star-net-geo.trafficmanager.net
 DOMAIN-SUFFIX,full:supercell.helpshift.com
 DOMAIN-SUFFIX,full:supercell.zendesk.com
 DOMAIN-SUFFIX,full:t.ssp.hinet.net
