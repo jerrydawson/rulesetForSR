@@ -1065,6 +1065,7 @@ DOMAIN-SUFFIX,ai7995.site
 DOMAIN-SUFFIX,ai91porn.cc
 DOMAIN-SUFFIX,aiaa.org
 DOMAIN-SUFFIX,aiasahi.jp
+DOMAIN-SUFFIX,aicu.cc
 DOMAIN-SUFFIX,aidc.com.tw
 DOMAIN-SUFFIX,aihub.top
 DOMAIN-SUFFIX,aimei133.com
@@ -6260,6 +6261,7 @@ DOMAIN-SUFFIX,dandanplay.com
 DOMAIN-SUFFIX,dandanplay.net
 DOMAIN-SUFFIX,dandanzan.cc
 DOMAIN-SUFFIX,danke4china.net
+DOMAIN-SUFFIX,danmakus.com
 DOMAIN-SUFFIX,danmarkbeatsbydrdre.com
 DOMAIN-SUFFIX,danskpornofilm.com
 DOMAIN-SUFFIX,dansmovies.com
@@ -8720,6 +8722,7 @@ DOMAIN-SUFFIX,fc2cn.com
 DOMAIN-SUFFIX,fc2ppv.tv
 DOMAIN-SUFFIX,fcacebook.com
 DOMAIN-SUFFIX,fcaebook.com
+DOMAIN-SUFFIX,fce.gg
 DOMAIN-SUFFIX,fcebook.com
 DOMAIN-SUFFIX,fcebookk.com
 DOMAIN-SUFFIX,fcfacebook.com
@@ -21200,6 +21203,7 @@ DOMAIN-SUFFIX,soyjak.party
 DOMAIN-SUFFIX,soyjak.st
 DOMAIN-SUFFIX,sp.cool
 DOMAIN-SUFFIX,spacebattles.com
+DOMAIN-SUFFIX,spacedesk.net
 DOMAIN-SUFFIX,spaceexplored.com
 DOMAIN-SUFFIX,spaceforce.mil
 DOMAIN-SUFFIX,spacely.com.au
@@ -26572,6 +26576,7 @@ DOMAIN-SUFFIX,full:asahishimbun.sc.omtrdc.net
 DOMAIN-SUFFIX,full:assets.ppy.sh
 DOMAIN-SUFFIX,full:audio-ak-spotify-com.akamaized.net
 DOMAIN-SUFFIX,full:audio4-ak-spotify-com.akamaized.net
+DOMAIN-SUFFIX,full:aurora-customization-usw2.lithium.com
 DOMAIN-SUFFIX,full:avatargarenanow-a.akamaihd.net
 DOMAIN-SUFFIX,full:az764295.vo.msecnd.net
 DOMAIN-SUFFIX,full:azure.microsoft.com
